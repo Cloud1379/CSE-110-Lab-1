@@ -3,7 +3,10 @@
 I'm James, a 2nd year CS student, and I like to play table tennis
 
 ## Pictures
-![Images](https://imgur.com/a/UBAEjpL)
+![Image1](https://imgur.com/0kcNyZa)
+![Image2](https://imgur.com/jAEoxH8)
+![Image3](https://imgur.com/wsxVN5t)
+![Image4](https://imgur.com/nVEc4WU)
 
 ## Core Markdown Constructs
 ### Headings
