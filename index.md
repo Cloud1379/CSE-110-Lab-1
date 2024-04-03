@@ -4,8 +4,11 @@ I'm James, a 2nd year CS student, and I like to play table tennis
 
 ## Pictures
 ![Image1](https://i.imgur.com/0kcNyZa.png)
+
 ![Image2](https://i.imgur.com/jAEoxH8.png)
+
 ![Image3](https://i.imgur.com/wsxVN5t.png)
+
 ![Image4](https://i.imgur.com/nVEc4WU.png)
 
 ## Core Markdown Constructs
